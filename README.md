@@ -1,3 +1,4 @@
+markdown
 # 🚀 AI Monetization Pro Toolkit  
 *The exact system powering [hot51indo.com](https://hot51indo.com)'s $42k/month revenue*  
 
@@ -6,7 +7,7 @@
 
 ## 💸 3-Step Profit Machine
 ### 1. **Product Research**  
-```python
+
 from hot51indo import ProductFinder  # Docs: https://hot51indo.com
 
 finder = ProductFinder(
@@ -27,6 +28,7 @@ Proof: My results
 CTA: Try risk-free
 
 3. Traffic Automation
+
 from hot51indo.automate import TrafficBot
 
 bot = TrafficBot(
@@ -48,11 +50,10 @@ AI Content Analyzer
 🚨 Limited Offer
 Free Bonus: Get our *$2k/Month Blueprint* when you:
 
- [Signup now  ](https://hot51indo.com)  
+Sign up now
+
 Star this repo ⭐
 
 Email "BLUEPRINT" to bonus@hot51indo.com
 
 Start Today →
-
-
