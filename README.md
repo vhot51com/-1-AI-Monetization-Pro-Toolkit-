@@ -48,8 +48,7 @@ AI Content Analyzer
 🚨 Limited Offer
 Free Bonus: Get our *$2k/Month Blueprint* when you:
 
-Sign up now
-
+ [Signup now  ](https://hot51indo.com)  
 Star this repo ⭐
 
 Email "BLUEPRINT" to bonus@hot51indo.com
