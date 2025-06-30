@@ -50,7 +50,7 @@ AI Content Analyzer
 🚨 Limited Offer
 Free Bonus: Get our *$2k/Month Blueprint* when you:
 
-Sign up now
+Sign up now → https://hot51indo.com/
 
 Star this repo ⭐
 
