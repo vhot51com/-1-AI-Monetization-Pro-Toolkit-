@@ -1,4 +1,3 @@
-markdown
 # 🚀 AI Monetization Pro Toolkit  
 *The exact system powering [hot51indo.com](https://hot51indo.com)'s $42k/month revenue*  
 
